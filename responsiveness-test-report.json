@@ -1,0 +1,1731 @@
+{
+  "timestamp": "2025-07-27T18:19:03.071Z",
+  "summary": {
+    "totalTests": 40,
+    "passed": 0,
+    "failed": 0,
+    "warnings": 40
+  },
+  "details": [
+    {
+      "page": "Home",
+      "viewport": "Mobile Small",
+      "dimensions": "320x568",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 5"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Mobile Medium",
+      "dimensions": "375x667",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 5"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Mobile Large",
+      "dimensions": "414x896",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 5"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Tablet Portrait",
+      "dimensions": "768x1024",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "warning",
+          "details": "Horizontal scrollbar detected"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 4"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 10"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Tablet Landscape",
+      "dimensions": "1024x768",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 4"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 10"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Desktop Small",
+      "dimensions": "1280x720",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 4"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 10"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Desktop Medium",
+      "dimensions": "1440x900",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 4"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Home",
+      "viewport": "Desktop Large",
+      "dimensions": "1920x1080",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 3, Buttons: 4"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/5, Small paragraphs: 0/14"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Mobile Small",
+      "dimensions": "320x568",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 5"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Mobile Medium",
+      "dimensions": "375x667",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 5"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Mobile Large",
+      "dimensions": "414x896",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 5"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Tablet Portrait",
+      "dimensions": "768x1024",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "warning",
+          "details": "Horizontal scrollbar detected"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 1"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Tablet Landscape",
+      "dimensions": "1024x768",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 1"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Desktop Small",
+      "dimensions": "1280x720",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 1"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Desktop Medium",
+      "dimensions": "1440x900",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 1"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Atrakcje",
+      "viewport": "Desktop Large",
+      "dimensions": "1920x1080",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 1"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/2, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Mobile Small",
+      "dimensions": "320x568",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Mobile Medium",
+      "dimensions": "375x667",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Mobile Large",
+      "dimensions": "414x896",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Tablet Portrait",
+      "dimensions": "768x1024",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "warning",
+          "details": "Horizontal scrollbar detected"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Tablet Landscape",
+      "dimensions": "1024x768",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Desktop Small",
+      "dimensions": "1280x720",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Desktop Medium",
+      "dimensions": "1440x900",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Urodziny",
+      "viewport": "Desktop Large",
+      "dimensions": "1920x1080",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/6, Small paragraphs: 0/10"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Mobile Small",
+      "dimensions": "320x568",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Mobile Medium",
+      "dimensions": "375x667",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Mobile Large",
+      "dimensions": "414x896",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Tablet Portrait",
+      "dimensions": "768x1024",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "warning",
+          "details": "Horizontal scrollbar detected"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Tablet Landscape",
+      "dimensions": "1024x768",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Desktop Small",
+      "dimensions": "1280x720",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Desktop Medium",
+      "dimensions": "1440x900",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Cenniki Bawialnia",
+      "viewport": "Desktop Large",
+      "dimensions": "1920x1080",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "warning",
+          "details": "Hero: null, Images: 4, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "warning",
+          "details": "Small headings: 2/13, Small paragraphs: 0/11"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 6"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Mobile Small",
+      "dimensions": "320x568",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Mobile Medium",
+      "dimensions": "375x667",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Mobile Large",
+      "dimensions": "414x896",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 3"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 7"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Tablet Portrait",
+      "dimensions": "768x1024",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "warning",
+          "details": "Horizontal scrollbar detected"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Tablet Landscape",
+      "dimensions": "1024x768",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Desktop Small",
+      "dimensions": "1280x720",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 9"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Desktop Medium",
+      "dimensions": "1440x900",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    },
+    {
+      "page": "Kontakt",
+      "viewport": "Desktop Large",
+      "dimensions": "1920x1080",
+      "tests": [
+        {
+          "name": "Page Load",
+          "status": "passed",
+          "details": "Page loaded successfully"
+        },
+        {
+          "name": "Horizontal Scroll",
+          "status": "passed",
+          "details": "No horizontal scroll"
+        },
+        {
+          "name": "Header Navigation",
+          "status": "passed",
+          "details": "Header: true, Logo: true, Correct Menu: true"
+        },
+        {
+          "name": "Footer Elements",
+          "status": "passed",
+          "details": "Footer: true, Scroll Button: true"
+        },
+        {
+          "name": "Content Visibility",
+          "status": "passed",
+          "details": "Hero: true, Images: 1, Buttons: 2"
+        },
+        {
+          "name": "Text Readability",
+          "status": "passed",
+          "details": "Small headings: 0/3, Small paragraphs: 0/9"
+        },
+        {
+          "name": "Element Overlap",
+          "status": "warning",
+          "details": "Potential overlaps detected: 8"
+        }
+      ],
+      "status": "warning"
+    }
+  ]
+}
